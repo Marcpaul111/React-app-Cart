@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-app-Cart/static/css/main.5dc63b71.css",
+    "main.js": "/React-app-Cart/static/js/main.fed9231f.js",
+    "static/js/787.7d6d6079.chunk.js": "/React-app-Cart/static/js/787.7d6d6079.chunk.js",
+    "static/media/6.jpg": "/React-app-Cart/static/media/6.73fcd7a5a6cbf2b85e14.jpg",
+    "static/media/1.jpg": "/React-app-Cart/static/media/1.cf2ef5f07bf2c11e180d.jpg",
+    "static/media/2.jpg": "/React-app-Cart/static/media/2.e834df915e4d12000274.jpg",
+    "static/media/4.jpg": "/React-app-Cart/static/media/4.6a792e7169a93b115677.jpg",
+    "static/media/3.jpg": "/React-app-Cart/static/media/3.1b19630eb17a82a3903e.jpg",
+    "static/media/5.jpg": "/React-app-Cart/static/media/5.76f076c83c736f576608.jpg",
+    "static/media/7.jpg": "/React-app-Cart/static/media/7.ddec122fb3fef4edbb97.jpg",
+    "index.html": "/React-app-Cart/index.html",
+    "main.5dc63b71.css.map": "/React-app-Cart/static/css/main.5dc63b71.css.map",
+    "main.fed9231f.js.map": "/React-app-Cart/static/js/main.fed9231f.js.map",
+    "787.7d6d6079.chunk.js.map": "/React-app-Cart/static/js/787.7d6d6079.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc63b71.css",
+    "static/js/main.fed9231f.js"
+  ]
+}
